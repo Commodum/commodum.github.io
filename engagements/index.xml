@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vega, &lt;span&gt;Nym&lt;/span&gt;, Massa &amp; &lt;span&gt;more to come&lt;/span&gt; on Commodum DAO | The enabler</title>
+    <link>https://commodum.github.io/engagements/</link>
+    <description>Recent content in Vega, &lt;span&gt;Nym&lt;/span&gt;, Massa &amp; &lt;span&gt;more to come&lt;/span&gt; on Commodum DAO | The enabler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>No right reserved Commodum DAO 2021</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://commodum.github.io/engagements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vega</title>
+      <link>https://commodum.github.io/engagements/vega/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>https://commodum.github.io/engagements/vega/</guid>
+      <description>Vega The fair &amp;amp; decentralized derivatives exchange
+Vega is a protocol for creating and trading margined financial products on a fully decentralised network.
+The network, secured with proof-of-stake, will facilitate fully automated, end-to-end margin trading and execution of complex financial products.</description>
+    </item>
+    
+    <item>
+      <title>Nym</title>
+      <link>https://commodum.github.io/engagements/nym/</link>
+      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      
+      <guid>https://commodum.github.io/engagements/nym/</guid>
+      <description>Nym Technologies The private internet
+Nym’s mission is to establish privacy as a default for online communications. Only then can people and organizations make meaningful and secure decisions about what, when and with whom they want to share data.</description>
+    </item>
+    
+    <item>
+      <title>Massa</title>
+      <link>https://commodum.github.io/engagements/massa/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>https://commodum.github.io/engagements/massa/</guid>
+      <description>Massa Lab The decentralized and scaled blockchain.
+Massa is a truly decentralized blockchain controlled by thousands of people. With the breakthrough multithreaded technology, we’re set for mass adoption.</description>
+    </item>
+    
+  </channel>
+</rss>
