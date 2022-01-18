@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Commodum DAO | The enabler</title>
-    <link>https://commodum.github.io/blog/</link>
+    <link>https://commodum.io/blog/</link>
     <description>Recent content in Blog on Commodum DAO | The enabler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://commodum.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>No right reserved Commodum DAO 2022</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://commodum.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Commodum</title>
-      <link>https://commodum.github.io/blog/commodum_1/</link>
+      <link>https://commodum.io/blog/commodum_1/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:01 +0600</pubDate>
       
-      <guid>https://commodum.github.io/blog/commodum_1/</guid>
+      <guid>https://commodum.io/blog/commodum_1/</guid>
       <description>Commodum was established in May 2021 by five professionals with the common denominator that we are all passionate about the future of blockchain technology and a desire to contribute to the growing ecosystem.</description>
     </item>
     

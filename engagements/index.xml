@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vega, &lt;span&gt;Nym&lt;/span&gt;, Massa &amp; &lt;span&gt;more to come&lt;/span&gt; on Commodum DAO | The enabler</title>
-    <link>https://commodum.github.io/engagements/</link>
+    <link>https://commodum.io/engagements/</link>
     <description>Recent content in Vega, &lt;span&gt;Nym&lt;/span&gt;, Massa &amp; &lt;span&gt;more to come&lt;/span&gt; on Commodum DAO | The enabler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://commodum.github.io/engagements/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>No right reserved Commodum DAO 2022</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://commodum.io/engagements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vega</title>
-      <link>https://commodum.github.io/engagements/vega/</link>
+      <link>https://commodum.io/engagements/vega/</link>
       <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
       
-      <guid>https://commodum.github.io/engagements/vega/</guid>
+      <guid>https://commodum.io/engagements/vega/</guid>
       <description>Vega The fair &amp;amp; decentralized derivatives exchange
 Vega is a protocol for creating and trading margined financial products on a fully decentralised network.
 The network, secured with proof-of-stake, will facilitate fully automated, end-to-end margin trading and execution of complex financial products.</description>
@@ -20,30 +21,30 @@ The network, secured with proof-of-stake, will facilitate fully automated, end-t
     
     <item>
       <title>Nym</title>
-      <link>https://commodum.github.io/engagements/nym/</link>
+      <link>https://commodum.io/engagements/nym/</link>
       <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
       
-      <guid>https://commodum.github.io/engagements/nym/</guid>
+      <guid>https://commodum.io/engagements/nym/</guid>
       <description>Nym Technologies The private internet
 Nym’s mission is to establish privacy as a default for online communications. Only then can people and organizations make meaningful and secure decisions about what, when and with whom they want to share data.</description>
     </item>
     
     <item>
       <title>Massa</title>
-      <link>https://commodum.github.io/engagements/massa/</link>
+      <link>https://commodum.io/engagements/massa/</link>
       <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
       
-      <guid>https://commodum.github.io/engagements/massa/</guid>
+      <guid>https://commodum.io/engagements/massa/</guid>
       <description>Massa Lab The decentralized and scaled blockchain.
 Massa is a truly decentralized blockchain controlled by thousands of people. With the breakthrough multithreaded technology, we’re set for mass adoption.</description>
     </item>
     
     <item>
       <title>Cudos</title>
-      <link>https://commodum.github.io/engagements/cudos/</link>
+      <link>https://commodum.io/engagements/cudos/</link>
       <pubDate>Wed, 27 Dec 2017 20:56:42 +0600</pubDate>
       
-      <guid>https://commodum.github.io/engagements/cudos/</guid>
+      <guid>https://commodum.io/engagements/cudos/</guid>
       <description>Cudos Cudos connects blockchain developers and services to a global pool of computing power.
 The Cudos Network is a Layer 1 network, providing scalable distributed computing direct to smart contracts or to any bridged blockchain.</description>
     </item>

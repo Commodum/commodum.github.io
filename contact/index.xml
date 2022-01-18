@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Commodum DAO | The enabler</title>
-    <link>https://commodum.github.io/contact/</link>
+    <link>https://commodum.io/contact/</link>
     <description>Recent content in Contact on Commodum DAO | The enabler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://commodum.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>No right reserved Commodum DAO 2022</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://commodum.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
