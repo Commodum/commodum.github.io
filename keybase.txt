@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/commodum
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://commodum.io
+  * I am commodum (https://keybase.io/commodum) on keybase.
+  * I have a public key with fingerprint E301 8A79 8EF9 8F26 8482  0756 9FFD F59E EC7F CE4B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e776a404ad9468b0d36ae0a2cd4a11c54109c3dbc09573162acdf68627b818bb0a",
+      "fingerprint": "e3018a798ef98f26848207569ffdf59eec7fce4b",
+      "host": "keybase.io",
+      "key_id": "9ffdf59eec7fce4b",
+      "kid": "0101e776a404ad9468b0d36ae0a2cd4a11c54109c3dbc09573162acdf68627b818bb0a",
+      "uid": "ec974ba4f7cb87bb7671be776c9ef719",
+      "username": "commodum"
+    },
+    "service": {
+      "hostname": "commodum.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1643451527,
+  "expire_in": 157680000,
+  "prev": "e1d89c5d4f773af685ee8e644ca7460c4f1f2db91430a48415ef193e64826ead",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIfAnicrZJfSBRBHMfvSg0v+qOIvhjJFv0xPXZ2Z3d2L0gKCpX+kEgZmdfs7Oy5
+du5ee39SREosSihfAqkwOYuMQvIhH6qXSuI0DAlS37xK0CexsAwJwmatXqLH5mWY
+33x+3/l+f8yrdas9Pm/Fj/hSZs9Xj3f0ZVfcgxfzLrdwmq03c4EW7gxd2WhYp9FY
+8IypcwGOBzygCMkY8hDrKpQVjddFGVMeC0SHGAAiQcCrRNQ1wqsSEoEsYKIbsiIL
+SFOAomk85ko4w7RC1Ik4phVjslTkgYKRqlBDVQxBVqAi8EiSVcPQDUmllCCDUKix
+xno76nYwcxqOUr9psxo7BFfs/YP/z77jK3KUqAhqGBqIaArSNCQjoLn6RKUGAqoL
+Rqlj4UbKaGI3Ntp6vJFrLeFYNWES6g7WTfIX8StOxLFjNrHD7KI+FotEA25jrDni
+kueoFvytEdRMS2djZB0J6kRN2+ICgJEkZrqiQIYilIAkoBKONkVMhwZNl5CQrPBs
+ue/QhBsG6IpKJJ2lQSJmiSVKFSpDSDCCMk+gAQxB11QARR5DBQKJGkAVGaEIMsU6
+56Y6a9lcQGY2cYhJRs2QhWNxh3KtQy9qMzxenycrc5X7vTy+7I1/Pt1czZrl5srh
+te1DxTu3HyzPIHdyHz+8rl/9tpyejDdk48qMia6yfYtOp18szA+tn3w3cPTyQmT6
+0vea7vKqrIJ45zH/876UOTpQNGwcrrslzndX5PoGT/V+eHrufWFTnun3btm0v2Os
+Opg6nEy8Drflfjp747lv5NrbrKH8WeV2tkCmnPGpJ8Vlc0UbtoLK0s892+tG2q2O
+Ijoy8/FByaHpbRM5C0d8d1Nfqja3pSe7w8mMpqR3x3i6t2Zw070T4ZaJ9KPq2dTN
+zy++zdd2na/eJfbtTlyRTsL+pf506Ru/03B87EJi4fRizf3p9tk9szll6zuSBzbM
+BAf3Hdp78VlBiOYU/ATyXEB8
+=UoDG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/commodum
+
+==================================================================
