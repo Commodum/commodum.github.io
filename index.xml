@@ -1,11 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Commodum DAO | The enabler</title>
-    <link>https://commodum.io/tags/</link>
-    <description>Recent content in Tags on Commodum DAO | The enabler</description>
+    <title>Commodum DAO | The enabler</title>
+    <link>https://commodum.io/</link>
+    <description>Recent content on Commodum DAO | The enabler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>No right reserved Commodum DAO 2022</copyright><atom:link href="https://commodum.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>No right reserved Commodum DAO 2022</copyright>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:01 +0600</lastBuildDate><atom:link href="https://commodum.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NYM &#43; Commodum = True</title>
+      <link>https://commodum.io/blog/commodum_3/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:01 +0600</pubDate>
+      
+      <guid>https://commodum.io/blog/commodum_3/</guid>
+      <description>The privacy infrastructure startup Nym Technologies has taken one closer step to launch their fully functional mainnet. The blockchain is the next-generation privacy infrastructure provider, built on Cosmos.</description>
+    </item>
+    
+    <item>
+      <title>Agoric</title>
+      <link>https://commodum.io/engagements/agoric/</link>
+      <pubDate>Sun, 23 Jan 2022 15:44:46 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/agoric/</guid>
+      <description>Agoric Build Fast, Earn Fast.
+Agoric is a Proof-of-Stake chain utilizing secure JavaScript smart contracts. The chain is an interoperable Proof-of-Stake chain and economy.
+The JavaScript-native smart contract platform offers developers a safe, reusable library of DeFi components to rapidly build and deploy on-chain.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio introduction</title>
+      <link>https://commodum.io/blog/commodum_2/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:01 +0600</pubDate>
+      
+      <guid>https://commodum.io/blog/commodum_2/</guid>
+      <description>Commodum is currently operating (validating) on three launched or soon to be launched Proof-of-Stake networks. This post will briefly summarise what these networks are and what they are trying to achieve.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Commodum</title>
+      <link>https://commodum.io/blog/commodum_1/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:01 +0600</pubDate>
+      
+      <guid>https://commodum.io/blog/commodum_1/</guid>
+      <description>Commodum was established in May 2021 by five professionals with the common denominator that we are all passionate about the future of blockchain technology and a desire to contribute to the growing ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Vega</title>
+      <link>https://commodum.io/engagements/vega/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/vega/</guid>
+      <description>Vega The fair &amp;amp; decentralized derivatives exchange
+Vega is a protocol for creating and trading margined financial products on a fully decentralised network.
+The network, secured with proof-of-stake, will facilitate fully automated, end-to-end margin trading and execution of complex financial products.</description>
+    </item>
+    
+    <item>
+      <title>Nym</title>
+      <link>https://commodum.io/engagements/nym/</link>
+      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/nym/</guid>
+      <description>Nym Technologies The private internet
+Nym’s mission is to establish privacy as a default for online communications. Only then can people and organizations make meaningful and secure decisions about what, when and with whom they want to share data.</description>
+    </item>
+    
+    <item>
+      <title>Massa</title>
+      <link>https://commodum.io/engagements/massa/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/massa/</guid>
+      <description>Massa Lab The decentralized and scaled blockchain.
+Massa is a truly decentralized blockchain controlled by thousands of people. With the breakthrough multithreaded technology, we’re set for mass adoption.</description>
+    </item>
+    
+    <item>
+      <title>Cudos</title>
+      <link>https://commodum.io/engagements/cudos/</link>
+      <pubDate>Wed, 27 Dec 2017 20:56:42 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/cudos/</guid>
+      <description>Cudos Cudos connects blockchain developers and services to a global pool of computing power.
+The Cudos Network is a Layer 1 network, providing scalable distributed computing direct to smart contracts or to any bridged blockchain.</description>
+    </item>
+    
   </channel>
 </rss>

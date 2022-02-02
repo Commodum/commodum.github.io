@@ -9,6 +9,17 @@
     <copyright>No right reserved Commodum DAO 2022</copyright>
     <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://commodum.io/engagements/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agoric</title>
+      <link>https://commodum.io/engagements/agoric/</link>
+      <pubDate>Sun, 23 Jan 2022 15:44:46 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/agoric/</guid>
+      <description>Agoric Build Fast, Earn Fast.
+Agoric is a Proof-of-Stake chain utilizing secure JavaScript smart contracts. The chain is an interoperable Proof-of-Stake chain and economy.
+The JavaScript-native smart contract platform offers developers a safe, reusable library of DeFi components to rapidly build and deploy on-chain.</description>
+    </item>
+    
+    <item>
       <title>Vega</title>
       <link>https://commodum.io/engagements/vega/</link>
       <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
