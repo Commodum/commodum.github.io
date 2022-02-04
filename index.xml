@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>No right reserved Commodum DAO 2022</copyright>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:01 +0600</lastBuildDate><atom:link href="https://commodum.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:46 +0600</lastBuildDate><atom:link href="https://commodum.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casper</title>
+      <link>https://commodum.io/engagements/casper/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:46 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/casper/</guid>
+      <description>Casper The future-proof blockchain
+Casper is a new Turing-complete smart-contracting platform, backed by a Proof-of-Stake (PoS) consensus algorithm and WebAssembly (WASM). The network is a permissionless, decentralized, public blockchain.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Update - Casper</title>
+      <link>https://commodum.io/blog/commodum_4/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:01 +0600</pubDate>
+      
+      <guid>https://commodum.io/blog/commodum_4/</guid>
+      <description>As of yesterday, we’re excited to have joined the Casper blockchain as a validator on the mainnet. We’ve been following as well as taking an active in the community in Casper since pre-mainnet launch and believe that it has got some of the key characteristics to be successful especially when it comes to PoS networks and its focus on enterprise adoption.</description>
+    </item>
+    
     <item>
       <title>NYM &#43; Commodum = True</title>
       <link>https://commodum.io/blog/commodum_3/</link>

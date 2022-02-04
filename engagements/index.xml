@@ -9,6 +9,16 @@
     <copyright>No right reserved Commodum DAO 2022</copyright>
     <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://commodum.io/engagements/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Casper</title>
+      <link>https://commodum.io/engagements/casper/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:46 +0600</pubDate>
+      
+      <guid>https://commodum.io/engagements/casper/</guid>
+      <description>Casper The future-proof blockchain
+Casper is a new Turing-complete smart-contracting platform, backed by a Proof-of-Stake (PoS) consensus algorithm and WebAssembly (WASM). The network is a permissionless, decentralized, public blockchain.</description>
+    </item>
+    
+    <item>
       <title>Agoric</title>
       <link>https://commodum.io/engagements/agoric/</link>
       <pubDate>Sun, 23 Jan 2022 15:44:46 +0600</pubDate>
