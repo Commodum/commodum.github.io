@@ -62,7 +62,7 @@
   "nodes": [
     {
       "public_key": "017c59c948812cf330ba97443014d403fe273926c7da2d3d9794b8b7e2fc419acd",
-      "description": "The node is running on a bare metal dedicated machine with AMD Ryzen 9 5950X 128 GB DDR4 ECC RAM processor and 2 x 3.84 TB NVMe SSD (RAID-1) storage.",
+      "description": "The node is running on a bare metal dedicated machine with a AMD Ryzen 9 5950X processor with 128 GB DDR4 ECC RAM and 2 x 3.84 TB NVMe SSD (RAID-1) storage.",
       "location": {
         "name": "Helsinki",
         "country": "FI",
