@@ -1,0 +1,77 @@
+{
+  "owner": {
+    "name": "Commodum",
+    "description": "We are from the community, for the community. +20 years of IT experience with focus on secure networks and +10 years of Finance experience with focus on derivatives. Decentralized team.",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "",
+      "privacy_policy_url": "",
+      "other": [
+        {
+          "name": "About Us",
+          "url": "https://commodum.io/about"
+        }
+      ]
+    },
+    "affiliated_accounts": [
+      {
+        "public_key": "017c59c948812cf330ba97443014d403fe273926c7da2d3d9794b8b7e2fc419acd"
+      },
+      {
+        "public_key": "018e4184b78c642ed8c6a4e77a05c63319e9e6389915d603777be8c3ae61b35457"
+      },
+      {
+        "public_key": "01ba25884cc773ec7ad669acd6302c2543a78296614905ce3afcd67751a1fcfdd9"
+      }
+    ],
+    "website": "https://commodum.io",
+    "email": "info@commodum.io",
+    "branding": {
+      "logo": {
+        "png_256": "https://commodum.io/images/blog/logo_256x256.png",
+        "png_1024": "",
+        "svg": ""
+      }
+    },
+    "location": {
+      "name": "London",
+      "country": "UK",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "keybase": "commodum",
+      "telegram": "@Commodum_DAO",
+      "twitter": "@commodumd",
+      "github": "",
+      "youtube": "",
+      "facebook": "",
+      "medium": "@commodumd",
+      "reddit": "commodumd",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "017c59c948812cf330ba97443014d403fe273926c7da2d3d9794b8b7e2fc419acd",
+      "description": "The node is running on a bare metal dedicated machine with AMD Ryzen 9 5950X 128 GB DDR4 ECC RAM processor and 2 x 3.84 TB NVMe SSD (RAID-1) storage.",
+      "location": {
+        "name": "Helsinki",
+        "country": "FI",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}
