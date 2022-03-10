@@ -26,7 +26,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <title>Blog</title>
+  <title>Vega Staking Guide GUI</title>
 <meta name="google-site-verification" content="Vw6NHE1Bqhvj_dpkp2D9mhn27xOH6c3Q3VvS-4OWtnE" />
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -123,104 +123,83 @@ if (!doNotTrack) {
 </nav>
 <main>
 
-<section class="site-blog-header">
+<section class="site-blog details">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
-        <h1>Blog</h1>
-        <p>
+      <div class="col-lg-8">
+        <article class="site-blog-details">
+          <p><span>March 10, 2022</span> by <span>Commodum</span></p>
+          <h2 class="blog-title">Vega Staking Guide GUI</h2>
           
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
+          <p>This is a step-by-step guide to staking Vega tokens using the GUI desktop wallet.</p>
+<br>
+<h4 id="step-1-install-the-desktop-vega-wallet">Step 1: Install the desktop Vega wallet</h4>
+<p>Download the latest release of the Vega Desktop Wallet for your <strong>operating system</strong> and <strong>processor</strong>. The most recent releases can be found on <a href="https://github.com/vegaprotocol/vegawallet-desktop/releases">github</a></p>
+<p>Extract the executable from the zip to your preferred location and run it. For Windows users, when you run it for the first time, Windows will prevent it from running. You can bypass this by clicking &ldquo;<strong>More Info</strong>&rdquo;, then &ldquo;<strong>Run Anyway</strong>&rdquo;.</p>
+<div style="text-align:center"><img src="picture_1.png" /></div> <div style="text-align:center"></div>
+<div style="text-align:center"><img src="picture_2.png" /></div> <div style="text-align:center"></div>
+<p>You may also encounter the following message:</p>
+<div style="text-align:center"><img src="picture_3.png" /></div> <div style="text-align:center"></div>
+<p>Simply click &ldquo;<strong>OK</strong>&rdquo; to continue.
+<br>
+<br></p>
+<h4 id="step-2-create-or-import-your-vega-wallet">Step 2: Create or import your Vega wallet</h4>
+<p>Upon launching the app there will be two options:</p>
+<ul>
+<li>one to create a wallet</li>
+<li>one to import a wallet from the recovery phrase.</li>
+</ul>
+<h5 id="create-new-wallet">Create New wallet:</h5>
+<p>To create a wallet, you must specify a wallet name and a passphrase. After creating a wallet, you will be provided with a recovery phrase. Make sure to store this in a safe place as without it you will not be able to recover your wallet.</p>
+<div style="text-align:center"><img src="picture_4.png" /></div> <div style="text-align:center"></div>
+<h5 id="import-wallet">Import wallet:</h5>
+<p>To import a wallet you must also provide a recovery phrase.</p>
+<div style="text-align:center"><img src="picture_5.png" /></div> <div style="text-align:center"></div>
+<p>When done creating or importing your wallet you will be prompted to import a network, select “<strong>mainnet1</strong>” from the drop-down menu then click &ldquo;<strong>Import</strong>&rdquo;.</p>
+<div style="text-align:center"><img src="picture_6.png" /></div> <div style="text-align:center"></div>
+<br>
+<p>You can see the current network at the bottom of the wallet home screen. If the current network is not “<strong>mainnet1</strong>” then click on the arrow in the bottom right-hand corner and then select “<strong>mainnet1</strong>” from the drop-down menu under “<strong>Network</strong>”.</p>
+<div style="text-align:center"><img src="picture_7.png" /></div> <div style="text-align:center"></div>
+<br>
+<br>
+<h4 id="step-3-associating-vega-tokens-and-delegating">Step 3: Associating Vega tokens and Delegating</h4>
+<p>Since your Vega tokens are located in your Ethereum wallet (or in the vesting contract) you will need to “associate” them with your Vega key in order to stake them. Note that tokens locked in the vesting contract can still be staked.</p>
+<p>In order to associate your tokens and stake them you will need to visit the Vega token website at <a href="https://token.vega.xyz/">https://token.vega.xyz/</a>.</p>
+<p>This is how the page looked as of posting.</p>
+<div style="text-align:center"><img src="picture_8.png" /></div> <div style="text-align:center"></div>
+<p>First, we need to connect the Ethereum wallet by clicking “<strong>Connect Ethereum wallet to associate $VEGA</strong>” in the top right hand corner.</p>
+<p>You will see the following popup, click “<strong>Injected</strong>” to connect using Metamask or any other supported Ethereum wallet.</p>
+<div style="text-align:center"><img src="picture_9.png" /></div> <div style="text-align:center"></div>
+<p>Next, click on “<strong>Connect Vega wallet to use associated $VEGA</strong>”, you will see the following popup.</p>
+<div style="text-align:center"><img src="picture_10.png" /></div> <div style="text-align:center"></div>
+<p>Before continuing, make sure that your Vega Desktop wallet is running and the current network is “<strong>mainnet1</strong>”. Now enter the wallet name and your passphrase and click “<strong>Connect</strong>”.</p>
+<p>Once both wallets are connected you will be able to see your Vega balance in the Ethereum wallet and your associated $VEGA in the Vega wallet</p>
+<div style="text-align:center"><img src="picture_11.png" /></div> <div style="text-align:center"></div>
+<div style="text-align:center"><img src="picture_12.png" /></div> <div style="text-align:center"></div>
+<p>Next browse to the &ldquo;<strong>Staking</strong>&rdquo; page of the token website and click &ldquo;<strong>Associate $VEGA tokens with wallet</strong>&rdquo;.</p>
+<div style="text-align:center"><img src="picture_13.png" /></div> <div style="text-align:center"></div>
+<p>This will bring up the following page.</p>
+<div style="text-align:center"><img src="picture_14.png" /></div> <div style="text-align:center"></div>
+<p>Next enter the amount of $VEGA you wish to associate and click “<strong>Approve $VEGA tokens for staking on Vega</strong>”, this will open a Metamask window for you to confirm the transaction.</p>
+<p>After this you can click on &ldquo;<strong>Associate $VEGA tokens with key</strong>&rdquo;, after waiting for 50 confirmations on Ethereum (≈10-12 minutes) you will see the below output and can then click &ldquo;<strong>Select a validator to nominate</strong>&rdquo;. This will take you back to the staking page.</p>
+<div style="text-align:center"><img src="picture_15.png" /></div> <div style="text-align:center"></div>
+<br>
+<p>Next, scroll down to the list of Validators and click on your prefered validator (a.k.a <strong>Commodum DAO</strong>) to bring up their Validator profile.</p>
+<div style="text-align:center"><img src="picture_16.png" /></div> <div style="text-align:center"></div>
+<p>Next click on the “<strong>Add</strong>” button in the bottom left corner and enter the amount of $VEGA you wish to stake. Click “<strong>Add XX $VEGA tokens</strong>” and your tokens will be staked at the start of the next epoch.</p>
+<div style="text-align:center"><img src="picture_17.png" /></div> <div style="text-align:center"></div>
+<p>That’s it! You’re done! You can now see your stake and pending stake in the Vega wallet section.</p>
+<div style="text-align:center"><img src="picture_18.png" /></div> <div style="text-align:center"></div>
+<br>
+<br>
+<p><strong>Team Commodum</strong><br>
+<a href="mailto:info@commodum.io">info@commodum.io</a><br>
+<a href="https://twitter.com/commodumd">Twitter</a>
+<br></p>
+<p><strong>Disclaimer</strong>:
+This guide is provided as is, without warranty of any kind. As such the authors are not liabale for any potential damages to your token holdings.</p>
 
-<section class="site-blog">
-  <div class="container">
-    <div class="row">
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-content">
-            <span>March 10, 2022</span>
-            <h3><a href="https://commodum.io/blog/vega-staking-guide-gui/">Vega Staking Guide GUI</a></h3>
-            <p>
-              This is a step-by-step guide to staking Vega tokens using the GUI desktop wallet.
-Step 1: Install the desktop Vega wallet Download the latest release of the Vega Desktop Wallet for your operating system and processor. ...
-            </p>
-            <a href="https://commodum.io/blog/vega-staking-guide-gui/" class="read-more">read more</a>
-          </div>
         </article>
-      </div>
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-content">
-            <span>February 4, 2022</span>
-            <h3><a href="https://commodum.io/blog/portfolio-update-casper/">Portfolio Update - Casper</a></h3>
-            <p>
-              As of yesterday, we’re excited to have joined the Casper blockchain as a validator on the mainnet. We’ve been following as well as taking an active in the community in Casper since pre-mainnet launch and believe that it has got some of the key characteristics to be successful especially when it comes to PoS networks and its focus on enterprise adoption. ...
-            </p>
-            <a href="https://commodum.io/blog/portfolio-update-casper/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-content">
-            <span>January 28, 2022</span>
-            <h3><a href="https://commodum.io/blog/nym-plus-commodum-equal-true/">NYM &#43; Commodum = True</a></h3>
-            <p>
-              The privacy infrastructure startup Nym Technologies has taken one closer step to launch their fully functional mainnet. The blockchain is the next-generation privacy infrastructure provider, built on Cosmos. ...
-            </p>
-            <a href="https://commodum.io/blog/nym-plus-commodum-equal-true/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          
-          <div class="site-blog-post-content">
-            <span>January 21, 2022</span>
-            <h3><a href="https://commodum.io/blog/portfolio-introduction/">Portfolio introduction</a></h3>
-            <p>
-              Commodum is currently operating (validating) on three launched or soon to be launched Proof-of-Stake networks. This post will briefly summarise what these networks are and what they are trying to achieve. ...
-            </p>
-            <a href="https://commodum.io/blog/portfolio-introduction/" class="read-more">read more</a>
-          </div>
-        </article>
-      </div>
-      
-      <div class="col-12">
-        <div class="site-blog-pagination">
-          
-    <ul class="pagination pagination-default">
-      <li class="page-item disabled">
-        <a href="#" aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
-      </li>
-      <li class="page-item disabled">
-        <a href="#" aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
-      </li>
-      <li class="page-item active">
-        <a href="#" aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
-      </li>
-      <li class="page-item">
-        <a href="/blog/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
-      </li>
-      <li class="page-item">
-        <a href="/blog/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/blog/page/2/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
-      </li>
-    </ul>
-        </div>
       </div>
     </div>
   </div>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>No right reserved Commodum DAO 2022</copyright>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:46 +0600</lastBuildDate><atom:link href="https://commodum.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 00:00:01 +0600</lastBuildDate><atom:link href="https://commodum.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vega Staking Guide GUI</title>
+      <link>https://commodum.io/blog/vega-staking-guide-gui/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:01 +0600</pubDate>
+      
+      <guid>https://commodum.io/blog/vega-staking-guide-gui/</guid>
+      <description>This is a step-by-step guide to staking Vega tokens using the GUI desktop wallet.
+Step 1: Install the desktop Vega wallet Download the latest release of the Vega Desktop Wallet for your operating system and processor.</description>
+    </item>
+    
     <item>
       <title>Casper</title>
       <link>https://commodum.io/engagements/casper/</link>
@@ -20,19 +30,19 @@ Casper is a new Turing-complete smart-contracting platform, backed by a Proof-of
     
     <item>
       <title>Portfolio Update - Casper</title>
-      <link>https://commodum.io/blog/commodum_4/</link>
+      <link>https://commodum.io/blog/portfolio-update-casper/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:01 +0600</pubDate>
       
-      <guid>https://commodum.io/blog/commodum_4/</guid>
+      <guid>https://commodum.io/blog/portfolio-update-casper/</guid>
       <description>As of yesterday, we’re excited to have joined the Casper blockchain as a validator on the mainnet. We’ve been following as well as taking an active in the community in Casper since pre-mainnet launch and believe that it has got some of the key characteristics to be successful especially when it comes to PoS networks and its focus on enterprise adoption.</description>
     </item>
     
     <item>
       <title>NYM &#43; Commodum = True</title>
-      <link>https://commodum.io/blog/commodum_3/</link>
+      <link>https://commodum.io/blog/nym-plus-commodum-equal-true/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:01 +0600</pubDate>
       
-      <guid>https://commodum.io/blog/commodum_3/</guid>
+      <guid>https://commodum.io/blog/nym-plus-commodum-equal-true/</guid>
       <description>The privacy infrastructure startup Nym Technologies has taken one closer step to launch their fully functional mainnet. The blockchain is the next-generation privacy infrastructure provider, built on Cosmos.</description>
     </item>
     
@@ -49,19 +59,19 @@ The JavaScript-native smart contract platform offers developers a safe, reusable
     
     <item>
       <title>Portfolio introduction</title>
-      <link>https://commodum.io/blog/commodum_2/</link>
+      <link>https://commodum.io/blog/portfolio-introduction/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:01 +0600</pubDate>
       
-      <guid>https://commodum.io/blog/commodum_2/</guid>
+      <guid>https://commodum.io/blog/portfolio-introduction/</guid>
       <description>Commodum is currently operating (validating) on three launched or soon to be launched Proof-of-Stake networks. This post will briefly summarise what these networks are and what they are trying to achieve.</description>
     </item>
     
     <item>
       <title>Introducing Commodum</title>
-      <link>https://commodum.io/blog/commodum_1/</link>
+      <link>https://commodum.io/blog/introducing-commodum/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:01 +0600</pubDate>
       
-      <guid>https://commodum.io/blog/commodum_1/</guid>
+      <guid>https://commodum.io/blog/introducing-commodum/</guid>
       <description>Commodum was established in May 2021 by five professionals with the common denominator that we are all passionate about the future of blockchain technology and a desire to contribute to the growing ecosystem.</description>
     </item>
     
